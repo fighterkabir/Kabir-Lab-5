@@ -1,8 +1,8 @@
 # Kabir Shergill's Lab 5
 
 ## Links to my GitHub Pages:
-- Link to explore.html[https://fighterkabir.github.io/Kabir-Lab-5/explore.html], actual link in-case: https://fighterkabir.github.io/Kabir-Lab-5/explore.html.
-- Link to expose.html[https://fighterkabir.github.io/Kabir-Lab-5/expose.html], actual link in-case: https://fighterkabir.github.io/Kabir-Lab-5/expose.html.
+- [Link to explore.html](https://fighterkabir.github.io/Kabir-Lab-5/explore.html), actual link in-case: https://fighterkabir.github.io/Kabir-Lab-5/explore.html.
+- [Link to expose.html](https://fighterkabir.github.io/Kabir-Lab-5/expose.html), actual link in-case: https://fighterkabir.github.io/Kabir-Lab-5/expose.html.
   
 #### This assignment was worked on individually (no partners)
 
